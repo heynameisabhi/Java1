@@ -1,0 +1,8 @@
+this is called the for-each loop used for arrays
+
+for(int num:arr)
+{
+    sop(num)
+}
+
+this will iterate throught the entier array
